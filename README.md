@@ -1,2 +1,1 @@
-## kotlin fundamentals here!
-* POO
+## kotlin fundamentals.
